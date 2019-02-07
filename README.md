@@ -9,6 +9,8 @@ I began writting this program as an example to introduce my little sister to sin
 
 Note that all images shown here are rendered using extremely slow speeds with no fade.
 
+The code was written fall 2018
+
 ## more images:
 ![spiral pattern](https://i.imgur.com/hya2Gwo.png)
 ![spiral pattern](https://i.imgur.com/nR3GY2P.png)
