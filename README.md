@@ -1,4 +1,4 @@
-# Spiral-Drawer
+# Spiral Drawer
 Draws interesting spirally patterns
 
 ![spiral pattern](https://i.imgur.com/HCAODtK.png)
