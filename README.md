@@ -7,8 +7,6 @@ This program basically uses a stack of points recursively orbiting each other to
 
 I began writting this program as an example to introduce my little sister to sine and cosine. It kind of spiralled out of control and I ended up using it to show her classes and recursion.
 
-Note that all images shown here are rendered using extremely slow speeds with no fade.
-
 The code was written fall 2018
 
 ## more images:
